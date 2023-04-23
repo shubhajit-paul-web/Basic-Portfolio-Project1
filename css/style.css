@@ -108,24 +108,6 @@ button {
   background-color: var(--white);
 }
 
-/* Toggle menu icon */
-
-.top-header .navbar .toggle-menu {
-  display: none;
-  visibility: hidden;
-}
-
-.top-header .navbar .toggle-menu i {
-  font-size: 24px;
-  color: var(--medium-black);
-  cursor: pointer;
-  padding: 2px;
-}
-
-.top-header .navbar .toggle-menu input {
-  display: none;
-}
-
 /* ---- Hero Section ---- */
 
 .hero-section {
